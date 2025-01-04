@@ -41,3 +41,30 @@ The Superstore Sales Dashboard provides comprehensive insights into sales, profi
 - **Region-Specific Insights:** The dashboard highlights regional and state-wise performance, offering strategic decision-making capabilities.
 
 
+
+
+# Google Sheets
+
+
+# Dengue Analysis Dashboard
+
+![Dengue Analysis Dashboard](dengue_dashboard.jpg)
+
+## Dashboard Description
+
+The Dengue Analysis Dashboard provides an overview of dengue case statistics, focusing on participant data, demographics, and case distributions. It is organized into the following sections:
+
+- **Total Participants and Positive Cases (Key Metrics):** Displays the total number of participants surveyed and the total number of confirmed dengue cases, providing a quick summary of the dataset.
+- **NS1, IgG, and IgM Positive Rates (Key Metrics):** Highlights the percentage of positive cases for NS1, IgG, and IgM tests, offering insights into diagnostic trends.
+- **Dengue Cases by Age (Bar Chart):** Shows the distribution of dengue cases across different age groups, helping identify the most affected demographics.
+- **Dengue Cases by Gender (Pie Chart):** Breaks down dengue cases by gender, highlighting male and female proportions.
+- **Dengue Cases by Area (Bar Chart):** Lists the regions with the highest number of dengue cases, providing a geographic perspective on the spread.
+- **Dengue Cases by Area Type (Horizontal Bar Chart):** Compares the number of cases in developed versus underdeveloped areas, offering insights into environmental factors.
+- **Dengue Cases by House Type (Donut Chart):** Categorizes cases based on house types (e.g., Tinshed, Building, and Other), aiding in understanding housing-related risk factors.
+
+## Features
+
+- **Detailed Metrics:** Displays key indicators like "Total Participants," "Total Positive Cases," and positive test rates for NS1, IgG, and IgM.
+- **Demographic Insights:** Visualizations provide age, gender, and housing-based breakdowns of dengue cases.
+- **Geographic and Environmental Analysis:** Highlights area-specific trends, including developed vs. underdeveloped regions, and housing conditions.
+- **Clear and Concise Visualizations:** A mix of bar charts, pie charts, and donut charts ensure quick understanding of complex data.
