@@ -1,5 +1,5 @@
 # Excel Dashboard
-# Table of content:
+
 
 ## Sales Dashboard
 ![Dashboard](Sales_Dashboard.JPG)
